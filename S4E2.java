@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class QuadraticEquationSolver {
+public class S4E2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

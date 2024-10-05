@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class LotteryGame {
+public class S4E3 {
     public static void main(String[] args) {
         Random rand = new Random();
         Scanner scanner = new Scanner(System.in);
